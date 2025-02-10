@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-7005: Creación y administración de recorridos en Dynamics 365 Customer Insights
 
 Este repositorio contiene ejercicios y archivos auxiliares para MB-7005: Creación y administración de recorridos con Dynamics 365 Customer Insights. Este curso está diseñado para los alumnos que planean usar Dynamics 365 Customer Insights para crear y ofrecer recorridos de marketing en sus carreras, o para analistas de experiencia de cliente que desean aprender a configurar Dynamics 365 Customer Insights para una organización.
