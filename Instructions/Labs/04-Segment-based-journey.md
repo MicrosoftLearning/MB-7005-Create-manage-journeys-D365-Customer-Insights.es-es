@@ -58,9 +58,7 @@ Dado que el objetivo del recorrido es impulsar a las personas a registrarse para
 
 1.  Establece el valor en **Ted Contoso.**
 
-1. En **Salir por segmentos**, establece el valor en **Contoso Customers.** Tus criterios de salida deben parecerse a la imagen siguiente.
-
-    ![Captura de pantalla de los criterios de salida.](../Labs/Media/complete-exit-criteria.png)
+1. En **Salir por segmentos**, establece el valor en **Contoso Customers.** 
 
 ### Tarea 3: Creación del recorrido
 Ahora que hemos definido los distintos criterios relacionados con este recorrido, vamos a crear el recorrido.  

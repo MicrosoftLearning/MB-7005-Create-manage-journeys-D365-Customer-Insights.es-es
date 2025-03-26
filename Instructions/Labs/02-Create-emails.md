@@ -32,7 +32,7 @@ Estos son los objetivos del laboratorio:
 
 1. Diseña el correo electrónico. Consulta la captura de pantalla del correo electrónico de bienvenida 1 siguiente para obtener ideas de diseño y contenido, con la imagen principal que cargaste en las instrucciones de configuración. Puedes modificar las imágenes y el contenido según sea necesario, pero querrás incluir un botón de llamada a acción en este correo electrónico, ya que se usará como criterio de diversificación dentro del recorrido.
 
-![Captura de pantalla del correo electrónico de bienvenida 1.](../Labs/Media/welcome-email-1-example.png) 
+    ![Captura de pantalla del correo electrónico de bienvenida 1.](../Labs/Media/welcome-email-1-example.png) 
 
 1. Esta es una copia de muestra para este correo electrónico. Puedes copiarla y pegarla en tu diseño de correo electrónico. Usa **Personalización** para escribir contenido dinámico para el nombre del contacto. 
 
@@ -81,7 +81,7 @@ Crearemos dos correos electrónicos más. Para ello copiaremos el correo electr�
 
 1. Diseña el correo electrónico. Consulta la captura de pantalla del correo electrónico de bienvenida 2 a continuación para obtener ideas de diseño y contenido. Puedes modificar las imágenes y el contenido según sea necesario. 
 
-![Captura de pantalla del correo electrónico de bienvenida 2.](../Labs/Media/welcome-email-2-example.png) 
+    ![Captura de pantalla del correo electrónico de bienvenida 2.](../Labs/Media/welcome-email-2-example.png) 
 
 1. Esta es una copia de muestra para este correo electrónico. Puedes copiarla y pegarla en tu diseño de correo electrónico. (Nota: se recomienda dejar FirstName del primer correo electrónico y, a continuación, reemplazar el resto de la copia por este). 
 
@@ -109,7 +109,7 @@ We will create one final email by copying email 2.
 
 1. Design the email. Refer to the screenshot of Welcome Email 3 below for design and content ideas. You can modify the images and content as desired. 
 
-![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
+    ![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
 
 1. Here is sample copy for this email. You can copy and paste this into your email design. (Note: We recommend leaving FirstName from the first email and then replacing the rest of the copy with this.) 
 
@@ -118,8 +118,9 @@ We will create one final email by copying email 2.
 
     Use el vínculo siguiente para descargar el kit desde nuestro sitio web.
     
-    Si tiene más preguntas, por favor, no dude en ponerse en contacto conmigo. Saludos, John Smith, Especialista en seguros jsmith@contosoinsurance.com 888-888-8888 
+    Si tiene más preguntas, por favor, no dude en ponerse en contacto conmigo. Saludos, John Smith, Especialista en seguros jsmith@contosoinsurance.com 888-888-8888
+    ```
 
-1. Actualiza el botón en el correo electrónico. En el campo **Texto del botón**, cámbialo por **Haga clic aquí para el kit de bienvenida.**
+1. Update the button in the email. In the **Button text** field, change it to **Click here for the welcome kit.**
 
-1. Previsualiza, prueba y publica el correo electrónico.
+1. Preview, test, and go live with your email.
